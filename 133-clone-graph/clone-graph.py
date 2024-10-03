@@ -12,7 +12,6 @@ class Solution:
         if not node:
             return None
 
-        # Use a dictionary to map original nodes to their clones
         clones = {node.val: Node(node.val, [])}
         q = deque([node])
 
@@ -22,11 +21,9 @@ class Solution:
 
             for ngbr in cur.neighbors:
                 if ngbr.val not in clones:
-                    # Create a clone of the neighbor node if not already cloned
                     clones[ngbr.val] = Node(ngbr.val, [])
                     q.append(ngbr)
 
-                # Add the cloned neighbor to the current cloned node's neighbors
                 cur_clone.neighbors.append(clones[ngbr.val])
 
         return clones[node.val]
