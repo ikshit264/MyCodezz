@@ -13,7 +13,7 @@ class Solution:
         stack.append(source)
 
         while stack:
-            curr = stack.pop(-1)
+            curr = stack.pop()
 
             if curr == destination:
                 return True 
@@ -24,5 +24,5 @@ class Solution:
                 for ngbr in edges[curr]:
                     if not visited[ngbr]:
                         stack.append(ngbr)
-                        
+
         return False
