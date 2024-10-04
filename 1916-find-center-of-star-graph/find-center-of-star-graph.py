@@ -1,14 +1,6 @@
 class Solution:
     def findCenter(self, edges: List[List[int]]) -> int:
-        store = {}
-        for e in edges:
-            for i in e:
-                if i in store:
-                    store[i] += 1
-                else:
-                    store[i] = 1
-        for key, value in store.items():
-            if store[key] == len(edges):
-                return key
-
-        return -1
+        if edges[0][0] == edges[1][1] or edges[0][0] == edges[1][0]:
+            return edges[0][0]
+        else:
+            return edges[0][1]
