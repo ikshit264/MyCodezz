@@ -2,7 +2,7 @@ class Solution {
 public:
     vector<int> getRow(int rowIndex) {
         vector<int> store;
-        long long ans = 1;
+        long ans = 1;
         store.push_back(1);
         for (int i = 1; i < rowIndex + 1; i++) {
             ans = (ans*(rowIndex + 1 - i))/i;
