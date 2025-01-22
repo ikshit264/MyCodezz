@@ -4,30 +4,22 @@ public:
         int R = mat.size();
         int C = mat[0].size();
 
-        // Initialize the grid: Set water cells to 0 and land cells to INT_MAX
         for (int i = 0; i < R; i++) {
             for (int j = 0; j < C; j++) {
                 if (mat[i][j] == 1) {
-                    mat[i][j] = 0; // Water cells stay at height 0
+                    mat[i][j] = 0;
                 } else {
-                    mat[i][j] = INT_MAX - 1; // Land cells are initialized to "infinity"
-                }
-            }
-        }
+                    mat[i][j] = INT_MAX - 1;
 
-        // First pass: Propagate from top-left to bottom-right
-        for (int i = 0; i < R; i++) {
-            for (int j = 0; j < C; j++) {
-                if (mat[i][j] != 0) { // Skip water cells
                     if (i > 0)
                         mat[i][j] = min(mat[i][j], mat[i - 1][j] + 1);
                     if (j > 0)
                         mat[i][j] = min(mat[i][j], mat[i][j - 1] + 1);
+
                 }
             }
         }
 
-        // Second pass: Propagate from bottom-right to top-left
         for (int i = R - 1; i >= 0; i--) {
             for (int j = C - 1; j >= 0; j--) {
                 if (i < R - 1)
