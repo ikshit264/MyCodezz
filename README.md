@@ -44,4 +44,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ikshit264/MyCodezz/tree/master/0124-binary-tree-maximum-path-sum) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/ikshit264/MyCodezz/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
+## Array
+|  |
+| ------- |
+| [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/ikshit264/MyCodezz/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
+## Binary Search
+|  |
+| ------- |
+| [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/ikshit264/MyCodezz/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
