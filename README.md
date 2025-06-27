@@ -78,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0770-couples-holding-hands](https://github.com/ikshit264/MyCodezz/tree/master/0770-couples-holding-hands) |
 | [0863-sum-of-distances-in-tree](https://github.com/ikshit264/MyCodezz/tree/master/0863-sum-of-distances-in-tree) |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/ikshit264/MyCodezz/tree/master/0877-shortest-path-visiting-all-nodes) |
+| [0918-reachable-nodes-in-subdivided-graph](https://github.com/ikshit264/MyCodezz/tree/master/0918-reachable-nodes-in-subdivided-graph) |
 | [0949-cat-and-mouse](https://github.com/ikshit264/MyCodezz/tree/master/0949-cat-and-mouse) |
 ## Topological Sort
 |  |
@@ -123,4 +124,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0949-cat-and-mouse](https://github.com/ikshit264/MyCodezz/tree/master/0949-cat-and-mouse) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0918-reachable-nodes-in-subdivided-graph](https://github.com/ikshit264/MyCodezz/tree/master/0918-reachable-nodes-in-subdivided-graph) |
+## Shortest Path
+|  |
+| ------- |
+| [0918-reachable-nodes-in-subdivided-graph](https://github.com/ikshit264/MyCodezz/tree/master/0918-reachable-nodes-in-subdivided-graph) |
 <!---LeetCode Topics End-->
