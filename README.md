@@ -57,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ikshit264/MyCodezz/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0863-sum-of-distances-in-tree](https://github.com/ikshit264/MyCodezz/tree/master/0863-sum-of-distances-in-tree) |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/ikshit264/MyCodezz/tree/master/0877-shortest-path-visiting-all-nodes) |
+| [0949-cat-and-mouse](https://github.com/ikshit264/MyCodezz/tree/master/0949-cat-and-mouse) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/ikshit264/MyCodezz/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 ## Array
 |  |
@@ -77,14 +78,17 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0770-couples-holding-hands](https://github.com/ikshit264/MyCodezz/tree/master/0770-couples-holding-hands) |
 | [0863-sum-of-distances-in-tree](https://github.com/ikshit264/MyCodezz/tree/master/0863-sum-of-distances-in-tree) |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/ikshit264/MyCodezz/tree/master/0877-shortest-path-visiting-all-nodes) |
+| [0949-cat-and-mouse](https://github.com/ikshit264/MyCodezz/tree/master/0949-cat-and-mouse) |
 ## Topological Sort
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ikshit264/MyCodezz/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0949-cat-and-mouse](https://github.com/ikshit264/MyCodezz/tree/master/0949-cat-and-mouse) |
 ## Memoization
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ikshit264/MyCodezz/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0949-cat-and-mouse](https://github.com/ikshit264/MyCodezz/tree/master/0949-cat-and-mouse) |
 ## Matrix
 |  |
 | ------- |
@@ -111,4 +115,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/ikshit264/MyCodezz/tree/master/0877-shortest-path-visiting-all-nodes) |
+## Math
+|  |
+| ------- |
+| [0949-cat-and-mouse](https://github.com/ikshit264/MyCodezz/tree/master/0949-cat-and-mouse) |
+## Game Theory
+|  |
+| ------- |
+| [0949-cat-and-mouse](https://github.com/ikshit264/MyCodezz/tree/master/0949-cat-and-mouse) |
 <!---LeetCode Topics End-->
