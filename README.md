@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0960-minimize-malware-spread](https://github.com/ikshit264/MyCodezz/tree/master/0960-minimize-malware-spread) |
 | [0964-minimize-malware-spread-ii](https://github.com/ikshit264/MyCodezz/tree/master/0964-minimize-malware-spread-ii) |
 | [1021-distribute-coins-in-binary-tree](https://github.com/ikshit264/MyCodezz/tree/master/1021-distribute-coins-in-binary-tree) |
+| [1300-critical-connections-in-a-network](https://github.com/ikshit264/MyCodezz/tree/master/1300-critical-connections-in-a-network) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/ikshit264/MyCodezz/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/ikshit264/MyCodezz/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
@@ -94,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0949-cat-and-mouse](https://github.com/ikshit264/MyCodezz/tree/master/0949-cat-and-mouse) |
 | [0960-minimize-malware-spread](https://github.com/ikshit264/MyCodezz/tree/master/0960-minimize-malware-spread) |
 | [0964-minimize-malware-spread-ii](https://github.com/ikshit264/MyCodezz/tree/master/0964-minimize-malware-spread-ii) |
+| [1300-critical-connections-in-a-network](https://github.com/ikshit264/MyCodezz/tree/master/1300-critical-connections-in-a-network) |
 ## Topological Sort
 |  |
 | ------- |
@@ -148,4 +150,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0918-reachable-nodes-in-subdivided-graph](https://github.com/ikshit264/MyCodezz/tree/master/0918-reachable-nodes-in-subdivided-graph) |
+## Biconnected Component
+|  |
+| ------- |
+| [1300-critical-connections-in-a-network](https://github.com/ikshit264/MyCodezz/tree/master/1300-critical-connections-in-a-network) |
 <!---LeetCode Topics End-->
