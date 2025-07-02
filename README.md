@@ -49,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0960-minimize-malware-spread](https://github.com/ikshit264/MyCodezz/tree/master/0960-minimize-malware-spread) |
 | [0964-minimize-malware-spread-ii](https://github.com/ikshit264/MyCodezz/tree/master/0964-minimize-malware-spread-ii) |
 | [1309-sort-items-by-groups-respecting-dependencies](https://github.com/ikshit264/MyCodezz/tree/master/1309-sort-items-by-groups-respecting-dependencies) |
+| [1424-maximum-candies-you-can-get-from-boxes](https://github.com/ikshit264/MyCodezz/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/ikshit264/MyCodezz/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -78,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0747-min-cost-climbing-stairs](https://github.com/ikshit264/MyCodezz/tree/master/0747-min-cost-climbing-stairs) |
 | [0960-minimize-malware-spread](https://github.com/ikshit264/MyCodezz/tree/master/0960-minimize-malware-spread) |
 | [0964-minimize-malware-spread-ii](https://github.com/ikshit264/MyCodezz/tree/master/0964-minimize-malware-spread-ii) |
+| [1424-maximum-candies-you-can-get-from-boxes](https://github.com/ikshit264/MyCodezz/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/ikshit264/MyCodezz/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 ## Binary Search
 |  |
@@ -99,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0964-minimize-malware-spread-ii](https://github.com/ikshit264/MyCodezz/tree/master/0964-minimize-malware-spread-ii) |
 | [1300-critical-connections-in-a-network](https://github.com/ikshit264/MyCodezz/tree/master/1300-critical-connections-in-a-network) |
 | [1309-sort-items-by-groups-respecting-dependencies](https://github.com/ikshit264/MyCodezz/tree/master/1309-sort-items-by-groups-respecting-dependencies) |
+| [1424-maximum-candies-you-can-get-from-boxes](https://github.com/ikshit264/MyCodezz/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 ## Topological Sort
 |  |
 | ------- |
