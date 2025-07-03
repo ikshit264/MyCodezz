@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/ikshit264/MyCodezz/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1021-distribute-coins-in-binary-tree](https://github.com/ikshit264/MyCodezz/tree/master/1021-distribute-coins-in-binary-tree) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/ikshit264/MyCodezz/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
+| [1493-frog-position-after-t-seconds](https://github.com/ikshit264/MyCodezz/tree/master/1493-frog-position-after-t-seconds) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/ikshit264/MyCodezz/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
@@ -37,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1300-critical-connections-in-a-network](https://github.com/ikshit264/MyCodezz/tree/master/1300-critical-connections-in-a-network) |
 | [1309-sort-items-by-groups-respecting-dependencies](https://github.com/ikshit264/MyCodezz/tree/master/1309-sort-items-by-groups-respecting-dependencies) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/ikshit264/MyCodezz/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
+| [1493-frog-position-after-t-seconds](https://github.com/ikshit264/MyCodezz/tree/master/1493-frog-position-after-t-seconds) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/ikshit264/MyCodezz/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -51,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1309-sort-items-by-groups-respecting-dependencies](https://github.com/ikshit264/MyCodezz/tree/master/1309-sort-items-by-groups-respecting-dependencies) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/ikshit264/MyCodezz/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/ikshit264/MyCodezz/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1493-frog-position-after-t-seconds](https://github.com/ikshit264/MyCodezz/tree/master/1493-frog-position-after-t-seconds) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/ikshit264/MyCodezz/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -107,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1309-sort-items-by-groups-respecting-dependencies](https://github.com/ikshit264/MyCodezz/tree/master/1309-sort-items-by-groups-respecting-dependencies) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/ikshit264/MyCodezz/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/ikshit264/MyCodezz/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1493-frog-position-after-t-seconds](https://github.com/ikshit264/MyCodezz/tree/master/1493-frog-position-after-t-seconds) |
 ## Topological Sort
 |  |
 | ------- |
