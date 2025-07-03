@@ -76,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0877-shortest-path-visiting-all-nodes](https://github.com/ikshit264/MyCodezz/tree/master/0877-shortest-path-visiting-all-nodes) |
 | [0949-cat-and-mouse](https://github.com/ikshit264/MyCodezz/tree/master/0949-cat-and-mouse) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/ikshit264/MyCodezz/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
+| [1587-parallel-courses-ii](https://github.com/ikshit264/MyCodezz/tree/master/1587-parallel-courses-ii) |
 ## Array
 |  |
 | ------- |
@@ -111,6 +112,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/ikshit264/MyCodezz/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/ikshit264/MyCodezz/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1493-frog-position-after-t-seconds](https://github.com/ikshit264/MyCodezz/tree/master/1493-frog-position-after-t-seconds) |
+| [1587-parallel-courses-ii](https://github.com/ikshit264/MyCodezz/tree/master/1587-parallel-courses-ii) |
 | [1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/ikshit264/MyCodezz/tree/master/1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 ## Topological Sort
 |  |
@@ -149,11 +151,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/ikshit264/MyCodezz/tree/master/0877-shortest-path-visiting-all-nodes) |
+| [1587-parallel-courses-ii](https://github.com/ikshit264/MyCodezz/tree/master/1587-parallel-courses-ii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/ikshit264/MyCodezz/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Bitmask
 |  |
 | ------- |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/ikshit264/MyCodezz/tree/master/0877-shortest-path-visiting-all-nodes) |
+| [1587-parallel-courses-ii](https://github.com/ikshit264/MyCodezz/tree/master/1587-parallel-courses-ii) |
 ## Math
 |  |
 | ------- |
