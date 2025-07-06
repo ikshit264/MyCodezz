@@ -46,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Breadth-First Search
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/ikshit264/MyCodezz/tree/master/0279-perfect-squares) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ikshit264/MyCodezz/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0685-redundant-connection-ii](https://github.com/ikshit264/MyCodezz/tree/master/0685-redundant-connection-ii) |
 | [0770-couples-holding-hands](https://github.com/ikshit264/MyCodezz/tree/master/0770-couples-holding-hands) |
@@ -74,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0198-house-robber](https://github.com/ikshit264/MyCodezz/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/ikshit264/MyCodezz/tree/master/0213-house-robber-ii) |
 | [0264-ugly-number-ii](https://github.com/ikshit264/MyCodezz/tree/master/0264-ugly-number-ii) |
+| [0279-perfect-squares](https://github.com/ikshit264/MyCodezz/tree/master/0279-perfect-squares) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ikshit264/MyCodezz/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0518-coin-change-ii](https://github.com/ikshit264/MyCodezz/tree/master/0518-coin-change-ii) |
 | [0740-delete-and-earn](https://github.com/ikshit264/MyCodezz/tree/master/0740-delete-and-earn) |
@@ -178,6 +180,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/ikshit264/MyCodezz/tree/master/0264-ugly-number-ii) |
+| [0279-perfect-squares](https://github.com/ikshit264/MyCodezz/tree/master/0279-perfect-squares) |
 | [0949-cat-and-mouse](https://github.com/ikshit264/MyCodezz/tree/master/0949-cat-and-mouse) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/ikshit264/MyCodezz/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Game Theory
