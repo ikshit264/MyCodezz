@@ -5,7 +5,7 @@ public:
             int store = abs(nums[i]);
             if (nums[store-1] < 0) return store;
             nums[store-1] = -nums[store-1];
-        }
+        } 
         return -1;
     }
 };
