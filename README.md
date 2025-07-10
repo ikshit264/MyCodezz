@@ -100,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0055-jump-game](https://github.com/ikshit264/MyCodezz/tree/master/0055-jump-game) |
 | [0198-house-robber](https://github.com/ikshit264/MyCodezz/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/ikshit264/MyCodezz/tree/master/0213-house-robber-ii) |
+| [0287-find-the-duplicate-number](https://github.com/ikshit264/MyCodezz/tree/master/0287-find-the-duplicate-number) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/ikshit264/MyCodezz/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ikshit264/MyCodezz/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ikshit264/MyCodezz/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -121,6 +122,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/ikshit264/MyCodezz/tree/master/0287-find-the-duplicate-number) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/ikshit264/MyCodezz/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/ikshit264/MyCodezz/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 ## Graph
@@ -184,6 +186,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/ikshit264/MyCodezz/tree/master/0287-find-the-duplicate-number) |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/ikshit264/MyCodezz/tree/master/0877-shortest-path-visiting-all-nodes) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/ikshit264/MyCodezz/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1587-parallel-courses-ii](https://github.com/ikshit264/MyCodezz/tree/master/1587-parallel-courses-ii) |
@@ -245,6 +248,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/ikshit264/MyCodezz/tree/master/0287-find-the-duplicate-number) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/ikshit264/MyCodezz/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 ## String
 |  |
