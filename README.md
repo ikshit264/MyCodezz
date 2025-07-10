@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ikshit264/MyCodezz/tree/master/0001-two-sum) |
 | [0264-ugly-number-ii](https://github.com/ikshit264/MyCodezz/tree/master/0264-ugly-number-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ikshit264/MyCodezz/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0740-delete-and-earn](https://github.com/ikshit264/MyCodezz/tree/master/0740-delete-and-earn) |
@@ -98,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ikshit264/MyCodezz/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ikshit264/MyCodezz/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0055-jump-game](https://github.com/ikshit264/MyCodezz/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/ikshit264/MyCodezz/tree/master/0075-sort-colors) |
