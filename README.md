@@ -98,6 +98,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0967-minimum-falling-path-sum](https://github.com/ikshit264/MyCodezz/tree/master/0967-minimum-falling-path-sum) |
 | [1025-minimum-cost-for-tickets](https://github.com/ikshit264/MyCodezz/tree/master/1025-minimum-cost-for-tickets) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/ikshit264/MyCodezz/tree/master/1352-maximum-profit-in-job-scheduling) |
+| [1393-maximum-value-of-k-coins-from-piles](https://github.com/ikshit264/MyCodezz/tree/master/1393-maximum-value-of-k-coins-from-piles) |
 | [1457-minimum-difficulty-of-a-job-schedule](https://github.com/ikshit264/MyCodezz/tree/master/1457-minimum-difficulty-of-a-job-schedule) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/ikshit264/MyCodezz/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1503-reducing-dishes](https://github.com/ikshit264/MyCodezz/tree/master/1503-reducing-dishes) |
@@ -130,6 +131,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1025-minimum-cost-for-tickets](https://github.com/ikshit264/MyCodezz/tree/master/1025-minimum-cost-for-tickets) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/ikshit264/MyCodezz/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/ikshit264/MyCodezz/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
+| [1393-maximum-value-of-k-coins-from-piles](https://github.com/ikshit264/MyCodezz/tree/master/1393-maximum-value-of-k-coins-from-piles) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/ikshit264/MyCodezz/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1457-minimum-difficulty-of-a-job-schedule](https://github.com/ikshit264/MyCodezz/tree/master/1457-minimum-difficulty-of-a-job-schedule) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/ikshit264/MyCodezz/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -293,5 +295,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 |  |
 | ------- |
+| [1393-maximum-value-of-k-coins-from-piles](https://github.com/ikshit264/MyCodezz/tree/master/1393-maximum-value-of-k-coins-from-piles) |
 | [1555-number-of-ways-of-cutting-a-pizza](https://github.com/ikshit264/MyCodezz/tree/master/1555-number-of-ways-of-cutting-a-pizza) |
 <!---LeetCode Topics End-->
