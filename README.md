@@ -256,6 +256,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Recursion
 |  |
 | ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/ikshit264/MyCodezz/tree/master/0025-reverse-nodes-in-k-group) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/ikshit264/MyCodezz/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Simulation
 |  |
@@ -301,4 +302,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1393-maximum-value-of-k-coins-from-piles](https://github.com/ikshit264/MyCodezz/tree/master/1393-maximum-value-of-k-coins-from-piles) |
 | [1555-number-of-ways-of-cutting-a-pizza](https://github.com/ikshit264/MyCodezz/tree/master/1555-number-of-ways-of-cutting-a-pizza) |
+## Linked List
+|  |
+| ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/ikshit264/MyCodezz/tree/master/0025-reverse-nodes-in-k-group) |
 <!---LeetCode Topics End-->
