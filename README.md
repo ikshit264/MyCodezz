@@ -108,6 +108,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1503-reducing-dishes](https://github.com/ikshit264/MyCodezz/tree/master/1503-reducing-dishes) |
 | [1555-number-of-ways-of-cutting-a-pizza](https://github.com/ikshit264/MyCodezz/tree/master/1555-number-of-ways-of-cutting-a-pizza) |
 | [1587-parallel-courses-ii](https://github.com/ikshit264/MyCodezz/tree/master/1587-parallel-courses-ii) |
+| [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/ikshit264/MyCodezz/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 ## Array
 |  |
 | ------- |
@@ -141,6 +142,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/ikshit264/MyCodezz/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1503-reducing-dishes](https://github.com/ikshit264/MyCodezz/tree/master/1503-reducing-dishes) |
 | [1555-number-of-ways-of-cutting-a-pizza](https://github.com/ikshit264/MyCodezz/tree/master/1555-number-of-ways-of-cutting-a-pizza) |
+| [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/ikshit264/MyCodezz/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/ikshit264/MyCodezz/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/ikshit264/MyCodezz/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/ikshit264/MyCodezz/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
@@ -293,6 +295,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0516-longest-palindromic-subsequence](https://github.com/ikshit264/MyCodezz/tree/master/0516-longest-palindromic-subsequence) |
 | [0962-flip-string-to-monotone-increasing](https://github.com/ikshit264/MyCodezz/tree/master/0962-flip-string-to-monotone-increasing) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/ikshit264/MyCodezz/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
+| [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/ikshit264/MyCodezz/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 ## Backtracking
 |  |
 | ------- |
