@@ -97,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0806-domino-and-tromino-tiling](https://github.com/ikshit264/MyCodezz/tree/master/0806-domino-and-tromino-tiling) |
 | [0863-sum-of-distances-in-tree](https://github.com/ikshit264/MyCodezz/tree/master/0863-sum-of-distances-in-tree) |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/ikshit264/MyCodezz/tree/master/0877-shortest-path-visiting-all-nodes) |
+| [0911-profitable-schemes](https://github.com/ikshit264/MyCodezz/tree/master/0911-profitable-schemes) |
 | [0949-cat-and-mouse](https://github.com/ikshit264/MyCodezz/tree/master/0949-cat-and-mouse) |
 | [0962-flip-string-to-monotone-increasing](https://github.com/ikshit264/MyCodezz/tree/master/0962-flip-string-to-monotone-increasing) |
 | [0967-minimum-falling-path-sum](https://github.com/ikshit264/MyCodezz/tree/master/0967-minimum-falling-path-sum) |
@@ -130,6 +131,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0518-coin-change-ii](https://github.com/ikshit264/MyCodezz/tree/master/0518-coin-change-ii) |
 | [0740-delete-and-earn](https://github.com/ikshit264/MyCodezz/tree/master/0740-delete-and-earn) |
 | [0747-min-cost-climbing-stairs](https://github.com/ikshit264/MyCodezz/tree/master/0747-min-cost-climbing-stairs) |
+| [0911-profitable-schemes](https://github.com/ikshit264/MyCodezz/tree/master/0911-profitable-schemes) |
 | [0960-minimize-malware-spread](https://github.com/ikshit264/MyCodezz/tree/master/0960-minimize-malware-spread) |
 | [0964-minimize-malware-spread-ii](https://github.com/ikshit264/MyCodezz/tree/master/0964-minimize-malware-spread-ii) |
 | [0967-minimum-falling-path-sum](https://github.com/ikshit264/MyCodezz/tree/master/0967-minimum-falling-path-sum) |
