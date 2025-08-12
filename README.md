@@ -84,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ikshit264/MyCodezz/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ikshit264/MyCodezz/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ikshit264/MyCodezz/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0131-palindrome-partitioning](https://github.com/ikshit264/MyCodezz/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/ikshit264/MyCodezz/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/ikshit264/MyCodezz/tree/master/0213-house-robber-ii) |
 | [0264-ugly-number-ii](https://github.com/ikshit264/MyCodezz/tree/master/0264-ugly-number-ii) |
@@ -297,6 +298,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0087-scramble-string](https://github.com/ikshit264/MyCodezz/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/ikshit264/MyCodezz/tree/master/0091-decode-ways) |
+| [0131-palindrome-partitioning](https://github.com/ikshit264/MyCodezz/tree/master/0131-palindrome-partitioning) |
 | [0516-longest-palindromic-subsequence](https://github.com/ikshit264/MyCodezz/tree/master/0516-longest-palindromic-subsequence) |
 | [0962-flip-string-to-monotone-increasing](https://github.com/ikshit264/MyCodezz/tree/master/0962-flip-string-to-monotone-increasing) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/ikshit264/MyCodezz/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
@@ -305,6 +307,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Backtracking
 |  |
 | ------- |
+| [0131-palindrome-partitioning](https://github.com/ikshit264/MyCodezz/tree/master/0131-palindrome-partitioning) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/ikshit264/MyCodezz/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 ## Prefix Sum
 |  |
