@@ -80,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0064-minimum-path-sum](https://github.com/ikshit264/MyCodezz/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/ikshit264/MyCodezz/tree/master/0070-climbing-stairs) |
 | [0087-scramble-string](https://github.com/ikshit264/MyCodezz/tree/master/0087-scramble-string) |
+| [0091-decode-ways](https://github.com/ikshit264/MyCodezz/tree/master/0091-decode-ways) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ikshit264/MyCodezz/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ikshit264/MyCodezz/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ikshit264/MyCodezz/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -295,6 +296,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0087-scramble-string](https://github.com/ikshit264/MyCodezz/tree/master/0087-scramble-string) |
+| [0091-decode-ways](https://github.com/ikshit264/MyCodezz/tree/master/0091-decode-ways) |
 | [0516-longest-palindromic-subsequence](https://github.com/ikshit264/MyCodezz/tree/master/0516-longest-palindromic-subsequence) |
 | [0962-flip-string-to-monotone-increasing](https://github.com/ikshit264/MyCodezz/tree/master/0962-flip-string-to-monotone-increasing) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/ikshit264/MyCodezz/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
