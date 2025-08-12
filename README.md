@@ -107,6 +107,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1457-minimum-difficulty-of-a-job-schedule](https://github.com/ikshit264/MyCodezz/tree/master/1457-minimum-difficulty-of-a-job-schedule) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/ikshit264/MyCodezz/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1503-reducing-dishes](https://github.com/ikshit264/MyCodezz/tree/master/1503-reducing-dishes) |
+| [1517-restore-the-array](https://github.com/ikshit264/MyCodezz/tree/master/1517-restore-the-array) |
 | [1555-number-of-ways-of-cutting-a-pizza](https://github.com/ikshit264/MyCodezz/tree/master/1555-number-of-ways-of-cutting-a-pizza) |
 | [1587-parallel-courses-ii](https://github.com/ikshit264/MyCodezz/tree/master/1587-parallel-courses-ii) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/ikshit264/MyCodezz/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
@@ -297,6 +298,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0516-longest-palindromic-subsequence](https://github.com/ikshit264/MyCodezz/tree/master/0516-longest-palindromic-subsequence) |
 | [0962-flip-string-to-monotone-increasing](https://github.com/ikshit264/MyCodezz/tree/master/0962-flip-string-to-monotone-increasing) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/ikshit264/MyCodezz/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
+| [1517-restore-the-array](https://github.com/ikshit264/MyCodezz/tree/master/1517-restore-the-array) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/ikshit264/MyCodezz/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 ## Backtracking
 |  |
