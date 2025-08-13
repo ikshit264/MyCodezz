@@ -113,6 +113,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/ikshit264/MyCodezz/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1503-reducing-dishes](https://github.com/ikshit264/MyCodezz/tree/master/1503-reducing-dishes) |
 | [1517-restore-the-array](https://github.com/ikshit264/MyCodezz/tree/master/1517-restore-the-array) |
+| [1522-stone-game-iii](https://github.com/ikshit264/MyCodezz/tree/master/1522-stone-game-iii) |
 | [1555-number-of-ways-of-cutting-a-pizza](https://github.com/ikshit264/MyCodezz/tree/master/1555-number-of-ways-of-cutting-a-pizza) |
 | [1587-parallel-courses-ii](https://github.com/ikshit264/MyCodezz/tree/master/1587-parallel-courses-ii) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/ikshit264/MyCodezz/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
@@ -154,6 +155,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1457-minimum-difficulty-of-a-job-schedule](https://github.com/ikshit264/MyCodezz/tree/master/1457-minimum-difficulty-of-a-job-schedule) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/ikshit264/MyCodezz/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1503-reducing-dishes](https://github.com/ikshit264/MyCodezz/tree/master/1503-reducing-dishes) |
+| [1522-stone-game-iii](https://github.com/ikshit264/MyCodezz/tree/master/1522-stone-game-iii) |
 | [1555-number-of-ways-of-cutting-a-pizza](https://github.com/ikshit264/MyCodezz/tree/master/1555-number-of-ways-of-cutting-a-pizza) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/ikshit264/MyCodezz/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1906-maximize-score-after-n-operations](https://github.com/ikshit264/MyCodezz/tree/master/1906-maximize-score-after-n-operations) |
@@ -254,6 +256,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0279-perfect-squares](https://github.com/ikshit264/MyCodezz/tree/master/0279-perfect-squares) |
 | [0949-cat-and-mouse](https://github.com/ikshit264/MyCodezz/tree/master/0949-cat-and-mouse) |
 | [1240-stone-game-ii](https://github.com/ikshit264/MyCodezz/tree/master/1240-stone-game-ii) |
+| [1522-stone-game-iii](https://github.com/ikshit264/MyCodezz/tree/master/1522-stone-game-iii) |
 | [1906-maximize-score-after-n-operations](https://github.com/ikshit264/MyCodezz/tree/master/1906-maximize-score-after-n-operations) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/ikshit264/MyCodezz/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Game Theory
@@ -261,6 +264,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0949-cat-and-mouse](https://github.com/ikshit264/MyCodezz/tree/master/0949-cat-and-mouse) |
 | [1240-stone-game-ii](https://github.com/ikshit264/MyCodezz/tree/master/1240-stone-game-ii) |
+| [1522-stone-game-iii](https://github.com/ikshit264/MyCodezz/tree/master/1522-stone-game-iii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
