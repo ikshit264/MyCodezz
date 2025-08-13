@@ -105,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0962-flip-string-to-monotone-increasing](https://github.com/ikshit264/MyCodezz/tree/master/0962-flip-string-to-monotone-increasing) |
 | [0967-minimum-falling-path-sum](https://github.com/ikshit264/MyCodezz/tree/master/0967-minimum-falling-path-sum) |
 | [1025-minimum-cost-for-tickets](https://github.com/ikshit264/MyCodezz/tree/master/1025-minimum-cost-for-tickets) |
+| [1240-stone-game-ii](https://github.com/ikshit264/MyCodezz/tree/master/1240-stone-game-ii) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/ikshit264/MyCodezz/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1393-maximum-value-of-k-coins-from-piles](https://github.com/ikshit264/MyCodezz/tree/master/1393-maximum-value-of-k-coins-from-piles) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/ikshit264/MyCodezz/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -145,6 +146,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0964-minimize-malware-spread-ii](https://github.com/ikshit264/MyCodezz/tree/master/0964-minimize-malware-spread-ii) |
 | [0967-minimum-falling-path-sum](https://github.com/ikshit264/MyCodezz/tree/master/0967-minimum-falling-path-sum) |
 | [1025-minimum-cost-for-tickets](https://github.com/ikshit264/MyCodezz/tree/master/1025-minimum-cost-for-tickets) |
+| [1240-stone-game-ii](https://github.com/ikshit264/MyCodezz/tree/master/1240-stone-game-ii) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/ikshit264/MyCodezz/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/ikshit264/MyCodezz/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1393-maximum-value-of-k-coins-from-piles](https://github.com/ikshit264/MyCodezz/tree/master/1393-maximum-value-of-k-coins-from-piles) |
@@ -251,12 +253,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0264-ugly-number-ii](https://github.com/ikshit264/MyCodezz/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/ikshit264/MyCodezz/tree/master/0279-perfect-squares) |
 | [0949-cat-and-mouse](https://github.com/ikshit264/MyCodezz/tree/master/0949-cat-and-mouse) |
+| [1240-stone-game-ii](https://github.com/ikshit264/MyCodezz/tree/master/1240-stone-game-ii) |
 | [1906-maximize-score-after-n-operations](https://github.com/ikshit264/MyCodezz/tree/master/1906-maximize-score-after-n-operations) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/ikshit264/MyCodezz/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Game Theory
 |  |
 | ------- |
 | [0949-cat-and-mouse](https://github.com/ikshit264/MyCodezz/tree/master/0949-cat-and-mouse) |
+| [1240-stone-game-ii](https://github.com/ikshit264/MyCodezz/tree/master/1240-stone-game-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -328,6 +332,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 |  |
 | ------- |
+| [1240-stone-game-ii](https://github.com/ikshit264/MyCodezz/tree/master/1240-stone-game-ii) |
 | [1393-maximum-value-of-k-coins-from-piles](https://github.com/ikshit264/MyCodezz/tree/master/1393-maximum-value-of-k-coins-from-piles) |
 | [1555-number-of-ways-of-cutting-a-pizza](https://github.com/ikshit264/MyCodezz/tree/master/1555-number-of-ways-of-cutting-a-pizza) |
 ## Linked List
