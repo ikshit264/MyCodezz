@@ -114,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1555-number-of-ways-of-cutting-a-pizza](https://github.com/ikshit264/MyCodezz/tree/master/1555-number-of-ways-of-cutting-a-pizza) |
 | [1587-parallel-courses-ii](https://github.com/ikshit264/MyCodezz/tree/master/1587-parallel-courses-ii) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/ikshit264/MyCodezz/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
+| [2022-maximum-alternating-subsequence-sum](https://github.com/ikshit264/MyCodezz/tree/master/2022-maximum-alternating-subsequence-sum) |
 ## Array
 |  |
 | ------- |
@@ -150,6 +151,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1555-number-of-ways-of-cutting-a-pizza](https://github.com/ikshit264/MyCodezz/tree/master/1555-number-of-ways-of-cutting-a-pizza) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/ikshit264/MyCodezz/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/ikshit264/MyCodezz/tree/master/1988-minimize-maximum-pair-sum-in-array) |
+| [2022-maximum-alternating-subsequence-sum](https://github.com/ikshit264/MyCodezz/tree/master/2022-maximum-alternating-subsequence-sum) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/ikshit264/MyCodezz/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/ikshit264/MyCodezz/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 ## Binary Search
