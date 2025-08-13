@@ -115,6 +115,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1555-number-of-ways-of-cutting-a-pizza](https://github.com/ikshit264/MyCodezz/tree/master/1555-number-of-ways-of-cutting-a-pizza) |
 | [1587-parallel-courses-ii](https://github.com/ikshit264/MyCodezz/tree/master/1587-parallel-courses-ii) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/ikshit264/MyCodezz/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
+| [1906-maximize-score-after-n-operations](https://github.com/ikshit264/MyCodezz/tree/master/1906-maximize-score-after-n-operations) |
 | [2022-maximum-alternating-subsequence-sum](https://github.com/ikshit264/MyCodezz/tree/master/2022-maximum-alternating-subsequence-sum) |
 | [2562-count-ways-to-build-good-strings](https://github.com/ikshit264/MyCodezz/tree/master/2562-count-ways-to-build-good-strings) |
 ## Array
@@ -153,6 +154,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1503-reducing-dishes](https://github.com/ikshit264/MyCodezz/tree/master/1503-reducing-dishes) |
 | [1555-number-of-ways-of-cutting-a-pizza](https://github.com/ikshit264/MyCodezz/tree/master/1555-number-of-ways-of-cutting-a-pizza) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/ikshit264/MyCodezz/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
+| [1906-maximize-score-after-n-operations](https://github.com/ikshit264/MyCodezz/tree/master/1906-maximize-score-after-n-operations) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/ikshit264/MyCodezz/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2022-maximum-alternating-subsequence-sum](https://github.com/ikshit264/MyCodezz/tree/master/2022-maximum-alternating-subsequence-sum) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/ikshit264/MyCodezz/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
@@ -234,12 +236,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0877-shortest-path-visiting-all-nodes](https://github.com/ikshit264/MyCodezz/tree/master/0877-shortest-path-visiting-all-nodes) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/ikshit264/MyCodezz/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1587-parallel-courses-ii](https://github.com/ikshit264/MyCodezz/tree/master/1587-parallel-courses-ii) |
+| [1906-maximize-score-after-n-operations](https://github.com/ikshit264/MyCodezz/tree/master/1906-maximize-score-after-n-operations) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/ikshit264/MyCodezz/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Bitmask
 |  |
 | ------- |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/ikshit264/MyCodezz/tree/master/0877-shortest-path-visiting-all-nodes) |
 | [1587-parallel-courses-ii](https://github.com/ikshit264/MyCodezz/tree/master/1587-parallel-courses-ii) |
+| [1906-maximize-score-after-n-operations](https://github.com/ikshit264/MyCodezz/tree/master/1906-maximize-score-after-n-operations) |
 ## Math
 |  |
 | ------- |
@@ -247,6 +251,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0264-ugly-number-ii](https://github.com/ikshit264/MyCodezz/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/ikshit264/MyCodezz/tree/master/0279-perfect-squares) |
 | [0949-cat-and-mouse](https://github.com/ikshit264/MyCodezz/tree/master/0949-cat-and-mouse) |
+| [1906-maximize-score-after-n-operations](https://github.com/ikshit264/MyCodezz/tree/master/1906-maximize-score-after-n-operations) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/ikshit264/MyCodezz/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Game Theory
 |  |
@@ -319,6 +324,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0093-restore-ip-addresses](https://github.com/ikshit264/MyCodezz/tree/master/0093-restore-ip-addresses) |
 | [0131-palindrome-partitioning](https://github.com/ikshit264/MyCodezz/tree/master/0131-palindrome-partitioning) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/ikshit264/MyCodezz/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
+| [1906-maximize-score-after-n-operations](https://github.com/ikshit264/MyCodezz/tree/master/1906-maximize-score-after-n-operations) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -328,4 +334,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/ikshit264/MyCodezz/tree/master/0025-reverse-nodes-in-k-group) |
+## Number Theory
+|  |
+| ------- |
+| [1906-maximize-score-after-n-operations](https://github.com/ikshit264/MyCodezz/tree/master/1906-maximize-score-after-n-operations) |
 <!---LeetCode Topics End-->
