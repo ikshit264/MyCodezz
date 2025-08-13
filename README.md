@@ -116,6 +116,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1587-parallel-courses-ii](https://github.com/ikshit264/MyCodezz/tree/master/1587-parallel-courses-ii) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/ikshit264/MyCodezz/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [2022-maximum-alternating-subsequence-sum](https://github.com/ikshit264/MyCodezz/tree/master/2022-maximum-alternating-subsequence-sum) |
+| [2562-count-ways-to-build-good-strings](https://github.com/ikshit264/MyCodezz/tree/master/2562-count-ways-to-build-good-strings) |
 ## Array
 |  |
 | ------- |
