@@ -148,6 +148,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0646-maximum-length-of-pair-chain](https://github.com/ikshit264/MyCodezz/tree/master/0646-maximum-length-of-pair-chain) |
 | [0740-delete-and-earn](https://github.com/ikshit264/MyCodezz/tree/master/0740-delete-and-earn) |
 | [0747-min-cost-climbing-stairs](https://github.com/ikshit264/MyCodezz/tree/master/0747-min-cost-climbing-stairs) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/ikshit264/MyCodezz/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0911-profitable-schemes](https://github.com/ikshit264/MyCodezz/tree/master/0911-profitable-schemes) |
 | [0960-minimize-malware-spread](https://github.com/ikshit264/MyCodezz/tree/master/0960-minimize-malware-spread) |
 | [0964-minimize-malware-spread-ii](https://github.com/ikshit264/MyCodezz/tree/master/0964-minimize-malware-spread-ii) |
@@ -177,6 +178,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/ikshit264/MyCodezz/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/ikshit264/MyCodezz/tree/master/0300-longest-increasing-subsequence) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/ikshit264/MyCodezz/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1290-make-array-strictly-increasing](https://github.com/ikshit264/MyCodezz/tree/master/1290-make-array-strictly-increasing) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/ikshit264/MyCodezz/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/ikshit264/MyCodezz/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
