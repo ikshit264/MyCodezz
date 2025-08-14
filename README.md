@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/ikshit264/MyCodezz/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0960-minimize-malware-spread](https://github.com/ikshit264/MyCodezz/tree/master/0960-minimize-malware-spread) |
 | [0964-minimize-malware-spread-ii](https://github.com/ikshit264/MyCodezz/tree/master/0964-minimize-malware-spread-ii) |
+| [1129-longest-string-chain](https://github.com/ikshit264/MyCodezz/tree/master/1129-longest-string-chain) |
 ## Tree
 |  |
 | ------- |
@@ -106,6 +107,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0962-flip-string-to-monotone-increasing](https://github.com/ikshit264/MyCodezz/tree/master/0962-flip-string-to-monotone-increasing) |
 | [0967-minimum-falling-path-sum](https://github.com/ikshit264/MyCodezz/tree/master/0967-minimum-falling-path-sum) |
 | [1025-minimum-cost-for-tickets](https://github.com/ikshit264/MyCodezz/tree/master/1025-minimum-cost-for-tickets) |
+| [1129-longest-string-chain](https://github.com/ikshit264/MyCodezz/tree/master/1129-longest-string-chain) |
 | [1240-stone-game-ii](https://github.com/ikshit264/MyCodezz/tree/master/1240-stone-game-ii) |
 | [1290-make-array-strictly-increasing](https://github.com/ikshit264/MyCodezz/tree/master/1290-make-array-strictly-increasing) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/ikshit264/MyCodezz/tree/master/1352-maximum-profit-in-job-scheduling) |
@@ -151,6 +153,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0964-minimize-malware-spread-ii](https://github.com/ikshit264/MyCodezz/tree/master/0964-minimize-malware-spread-ii) |
 | [0967-minimum-falling-path-sum](https://github.com/ikshit264/MyCodezz/tree/master/0967-minimum-falling-path-sum) |
 | [1025-minimum-cost-for-tickets](https://github.com/ikshit264/MyCodezz/tree/master/1025-minimum-cost-for-tickets) |
+| [1129-longest-string-chain](https://github.com/ikshit264/MyCodezz/tree/master/1129-longest-string-chain) |
 | [1240-stone-game-ii](https://github.com/ikshit264/MyCodezz/tree/master/1240-stone-game-ii) |
 | [1290-make-array-strictly-increasing](https://github.com/ikshit264/MyCodezz/tree/master/1290-make-array-strictly-increasing) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/ikshit264/MyCodezz/tree/master/1352-maximum-profit-in-job-scheduling) |
@@ -302,6 +305,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0075-sort-colors](https://github.com/ikshit264/MyCodezz/tree/master/0075-sort-colors) |
 | [0646-maximum-length-of-pair-chain](https://github.com/ikshit264/MyCodezz/tree/master/0646-maximum-length-of-pair-chain) |
+| [1129-longest-string-chain](https://github.com/ikshit264/MyCodezz/tree/master/1129-longest-string-chain) |
 | [1290-make-array-strictly-increasing](https://github.com/ikshit264/MyCodezz/tree/master/1290-make-array-strictly-increasing) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/ikshit264/MyCodezz/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1503-reducing-dishes](https://github.com/ikshit264/MyCodezz/tree/master/1503-reducing-dishes) |
@@ -323,6 +327,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0075-sort-colors](https://github.com/ikshit264/MyCodezz/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/ikshit264/MyCodezz/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/ikshit264/MyCodezz/tree/master/0287-find-the-duplicate-number) |
+| [1129-longest-string-chain](https://github.com/ikshit264/MyCodezz/tree/master/1129-longest-string-chain) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/ikshit264/MyCodezz/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 ## String
 |  |
@@ -333,6 +338,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0131-palindrome-partitioning](https://github.com/ikshit264/MyCodezz/tree/master/0131-palindrome-partitioning) |
 | [0516-longest-palindromic-subsequence](https://github.com/ikshit264/MyCodezz/tree/master/0516-longest-palindromic-subsequence) |
 | [0962-flip-string-to-monotone-increasing](https://github.com/ikshit264/MyCodezz/tree/master/0962-flip-string-to-monotone-increasing) |
+| [1129-longest-string-chain](https://github.com/ikshit264/MyCodezz/tree/master/1129-longest-string-chain) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/ikshit264/MyCodezz/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/ikshit264/MyCodezz/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1517-restore-the-array](https://github.com/ikshit264/MyCodezz/tree/master/1517-restore-the-array) |
