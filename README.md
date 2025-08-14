@@ -106,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0967-minimum-falling-path-sum](https://github.com/ikshit264/MyCodezz/tree/master/0967-minimum-falling-path-sum) |
 | [1025-minimum-cost-for-tickets](https://github.com/ikshit264/MyCodezz/tree/master/1025-minimum-cost-for-tickets) |
 | [1240-stone-game-ii](https://github.com/ikshit264/MyCodezz/tree/master/1240-stone-game-ii) |
+| [1290-make-array-strictly-increasing](https://github.com/ikshit264/MyCodezz/tree/master/1290-make-array-strictly-increasing) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/ikshit264/MyCodezz/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1393-maximum-value-of-k-coins-from-piles](https://github.com/ikshit264/MyCodezz/tree/master/1393-maximum-value-of-k-coins-from-piles) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/ikshit264/MyCodezz/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -149,6 +150,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0967-minimum-falling-path-sum](https://github.com/ikshit264/MyCodezz/tree/master/0967-minimum-falling-path-sum) |
 | [1025-minimum-cost-for-tickets](https://github.com/ikshit264/MyCodezz/tree/master/1025-minimum-cost-for-tickets) |
 | [1240-stone-game-ii](https://github.com/ikshit264/MyCodezz/tree/master/1240-stone-game-ii) |
+| [1290-make-array-strictly-increasing](https://github.com/ikshit264/MyCodezz/tree/master/1290-make-array-strictly-increasing) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/ikshit264/MyCodezz/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/ikshit264/MyCodezz/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1393-maximum-value-of-k-coins-from-piles](https://github.com/ikshit264/MyCodezz/tree/master/1393-maximum-value-of-k-coins-from-piles) |
@@ -170,6 +172,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/ikshit264/MyCodezz/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/ikshit264/MyCodezz/tree/master/0300-longest-increasing-subsequence) |
+| [1290-make-array-strictly-increasing](https://github.com/ikshit264/MyCodezz/tree/master/1290-make-array-strictly-increasing) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/ikshit264/MyCodezz/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/ikshit264/MyCodezz/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 ## Graph
@@ -295,6 +298,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/ikshit264/MyCodezz/tree/master/0075-sort-colors) |
+| [1290-make-array-strictly-increasing](https://github.com/ikshit264/MyCodezz/tree/master/1290-make-array-strictly-increasing) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/ikshit264/MyCodezz/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1503-reducing-dishes](https://github.com/ikshit264/MyCodezz/tree/master/1503-reducing-dishes) |
 | [1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/ikshit264/MyCodezz/tree/master/1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
