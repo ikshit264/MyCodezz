@@ -1,6 +1,6 @@
 class Solution {
-    static int[] nums;
-    Integer[] store;
+    // static int[] nums;
+    // Integer[] store;
 
     // public int solve(int i, int prevIndex){
     //     if (i >= nums.length) return 0;
@@ -16,9 +16,9 @@ class Solution {
     //     return store[i][prevIndex + 1] = Math.max(notTake, take);
     // }
     public int lengthOfLIS(int[] nums) {
-        this.nums = nums;
+        // this.nums = nums;
         int n = nums.length;
-        store = new Integer[n];
+        Integer[] store = new Integer[n];
         java.util.Arrays.fill(store, 1);
 
         int result = 1;
