@@ -95,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/ikshit264/MyCodezz/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0516-longest-palindromic-subsequence](https://github.com/ikshit264/MyCodezz/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/ikshit264/MyCodezz/tree/master/0518-coin-change-ii) |
+| [0646-maximum-length-of-pair-chain](https://github.com/ikshit264/MyCodezz/tree/master/0646-maximum-length-of-pair-chain) |
 | [0740-delete-and-earn](https://github.com/ikshit264/MyCodezz/tree/master/0740-delete-and-earn) |
 | [0747-min-cost-climbing-stairs](https://github.com/ikshit264/MyCodezz/tree/master/0747-min-cost-climbing-stairs) |
 | [0806-domino-and-tromino-tiling](https://github.com/ikshit264/MyCodezz/tree/master/0806-domino-and-tromino-tiling) |
@@ -142,6 +143,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0442-find-all-duplicates-in-an-array](https://github.com/ikshit264/MyCodezz/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/ikshit264/MyCodezz/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0518-coin-change-ii](https://github.com/ikshit264/MyCodezz/tree/master/0518-coin-change-ii) |
+| [0646-maximum-length-of-pair-chain](https://github.com/ikshit264/MyCodezz/tree/master/0646-maximum-length-of-pair-chain) |
 | [0740-delete-and-earn](https://github.com/ikshit264/MyCodezz/tree/master/0740-delete-and-earn) |
 | [0747-min-cost-climbing-stairs](https://github.com/ikshit264/MyCodezz/tree/master/0747-min-cost-climbing-stairs) |
 | [0911-profitable-schemes](https://github.com/ikshit264/MyCodezz/tree/master/0911-profitable-schemes) |
@@ -235,6 +237,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0055-jump-game](https://github.com/ikshit264/MyCodezz/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ikshit264/MyCodezz/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0646-maximum-length-of-pair-chain](https://github.com/ikshit264/MyCodezz/tree/master/0646-maximum-length-of-pair-chain) |
 | [0770-couples-holding-hands](https://github.com/ikshit264/MyCodezz/tree/master/0770-couples-holding-hands) |
 | [1503-reducing-dishes](https://github.com/ikshit264/MyCodezz/tree/master/1503-reducing-dishes) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/ikshit264/MyCodezz/tree/master/1988-minimize-maximum-pair-sum-in-array) |
@@ -298,6 +301,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/ikshit264/MyCodezz/tree/master/0075-sort-colors) |
+| [0646-maximum-length-of-pair-chain](https://github.com/ikshit264/MyCodezz/tree/master/0646-maximum-length-of-pair-chain) |
 | [1290-make-array-strictly-increasing](https://github.com/ikshit264/MyCodezz/tree/master/1290-make-array-strictly-increasing) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/ikshit264/MyCodezz/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1503-reducing-dishes](https://github.com/ikshit264/MyCodezz/tree/master/1503-reducing-dishes) |
