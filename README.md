@@ -131,6 +131,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ikshit264/MyCodezz/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/ikshit264/MyCodezz/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ikshit264/MyCodezz/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0055-jump-game](https://github.com/ikshit264/MyCodezz/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/ikshit264/MyCodezz/tree/master/0064-minimum-path-sum) |
@@ -243,6 +244,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ikshit264/MyCodezz/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/ikshit264/MyCodezz/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ikshit264/MyCodezz/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0646-maximum-length-of-pair-chain](https://github.com/ikshit264/MyCodezz/tree/master/0646-maximum-length-of-pair-chain) |
@@ -330,6 +332,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ikshit264/MyCodezz/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ikshit264/MyCodezz/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/ikshit264/MyCodezz/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/ikshit264/MyCodezz/tree/master/0283-move-zeroes) |
