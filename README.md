@@ -81,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ikshit264/MyCodezz/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/ikshit264/MyCodezz/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/ikshit264/MyCodezz/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/ikshit264/MyCodezz/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/ikshit264/MyCodezz/tree/master/0070-climbing-stairs) |
 | [0087-scramble-string](https://github.com/ikshit264/MyCodezz/tree/master/0087-scramble-string) |
@@ -271,6 +272,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/ikshit264/MyCodezz/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/ikshit264/MyCodezz/tree/master/0070-climbing-stairs) |
 | [0264-ugly-number-ii](https://github.com/ikshit264/MyCodezz/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/ikshit264/MyCodezz/tree/master/0279-perfect-squares) |
@@ -386,4 +388,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ikshit264/MyCodezz/tree/master/0042-trapping-rain-water) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/ikshit264/MyCodezz/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
