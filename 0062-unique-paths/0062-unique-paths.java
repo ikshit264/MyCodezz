@@ -1,7 +1,7 @@
 class Solution {
     int m;
     int n;
-    int dp[][];
+    int dp[];
 
     // public int solve(int row, int col){
     //     if (row >= m || row < 0) return 0;
@@ -15,28 +15,21 @@ class Solution {
     public int uniquePaths(int m, int n) {
         this.m = m;
         this.n = n;
-        dp = new int[m][n];
+        dp = new int[n];
 
-        // if (m == 1 && n == 1) return 1;
-
-        for (int[] row : dp){
-            Arrays.fill(row, -1);
-        }
-
-        for (int i = 0; i < m; i++){
-            dp[i][0] = 1;
-        }
-
-        for (int i = 1; i < n; i++){
-            dp[0][i] = 1;
-        }
+        Arrays.fill(dp, 1);
 
         for (int i = 1; i < m; i++){
+            int[] temp = new int[n];
+            temp[0] = 1;
             for (int j = 1; j < n; j++){
-                dp[i][j] = dp[i-1][j] + dp[i][j-1];
+                temp[j] = dp[j] + temp[j-1];
             }
+            // for (int j : dp) System.out.print(j + " ");
+            // System.out.println("");
+            dp = temp;
         }
 
-        return dp[m-1][n-1];
+        return dp[n-1];
     }
 }
