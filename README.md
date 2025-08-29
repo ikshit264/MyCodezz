@@ -116,6 +116,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0972-knight-dialer](https://github.com/ikshit264/MyCodezz/tree/master/0972-knight-dialer) |
 | [1025-minimum-cost-for-tickets](https://github.com/ikshit264/MyCodezz/tree/master/1025-minimum-cost-for-tickets) |
 | [1129-longest-string-chain](https://github.com/ikshit264/MyCodezz/tree/master/1129-longest-string-chain) |
+| [1234-number-of-paths-with-max-score](https://github.com/ikshit264/MyCodezz/tree/master/1234-number-of-paths-with-max-score) |
 | [1240-stone-game-ii](https://github.com/ikshit264/MyCodezz/tree/master/1240-stone-game-ii) |
 | [1290-make-array-strictly-increasing](https://github.com/ikshit264/MyCodezz/tree/master/1290-make-array-strictly-increasing) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/ikshit264/MyCodezz/tree/master/1352-maximum-profit-in-job-scheduling) |
@@ -168,6 +169,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0967-minimum-falling-path-sum](https://github.com/ikshit264/MyCodezz/tree/master/0967-minimum-falling-path-sum) |
 | [1025-minimum-cost-for-tickets](https://github.com/ikshit264/MyCodezz/tree/master/1025-minimum-cost-for-tickets) |
 | [1129-longest-string-chain](https://github.com/ikshit264/MyCodezz/tree/master/1129-longest-string-chain) |
+| [1234-number-of-paths-with-max-score](https://github.com/ikshit264/MyCodezz/tree/master/1234-number-of-paths-with-max-score) |
 | [1240-stone-game-ii](https://github.com/ikshit264/MyCodezz/tree/master/1240-stone-game-ii) |
 | [1290-make-array-strictly-increasing](https://github.com/ikshit264/MyCodezz/tree/master/1290-make-array-strictly-increasing) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/ikshit264/MyCodezz/tree/master/1352-maximum-profit-in-job-scheduling) |
@@ -236,6 +238,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0064-minimum-path-sum](https://github.com/ikshit264/MyCodezz/tree/master/0064-minimum-path-sum) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ikshit264/MyCodezz/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0967-minimum-falling-path-sum](https://github.com/ikshit264/MyCodezz/tree/master/0967-minimum-falling-path-sum) |
+| [1234-number-of-paths-with-max-score](https://github.com/ikshit264/MyCodezz/tree/master/1234-number-of-paths-with-max-score) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/ikshit264/MyCodezz/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1555-number-of-ways-of-cutting-a-pizza](https://github.com/ikshit264/MyCodezz/tree/master/1555-number-of-ways-of-cutting-a-pizza) |
 ## Eulerian Circuit
