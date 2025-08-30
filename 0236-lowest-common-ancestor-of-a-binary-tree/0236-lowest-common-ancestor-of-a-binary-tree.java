@@ -34,15 +34,14 @@ class Solution {
     
     store = new ArrayList<>();
     solve(root, q);
-    List<TreeNode> qList = new ArrayList<>(store); // copy path for q
 
     // Compare paths
     int i = pList.size() - 1; // last = p itself
-    int j = qList.size() - 1; // last = q itself
+    int j = store.size() - 1; // last = q itself
     TreeNode lca = null;
 
     // Move backwards until paths diverge
-    while (i >= 0 && j >= 0 && pList.get(i) == qList.get(j)) {
+    while (i >= 0 && j >= 0 && pList.get(i) == store.get(j)) {
         lca = pList.get(i);
         i--;
         j--;
