@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0144-binary-tree-preorder-traversal](https://github.com/ikshit264/MyCodezz/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/ikshit264/MyCodezz/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/ikshit264/MyCodezz/tree/master/0226-invert-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ikshit264/MyCodezz/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/ikshit264/MyCodezz/tree/master/0543-diameter-of-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/ikshit264/MyCodezz/tree/master/0687-longest-univalue-path) |
 | [0863-sum-of-distances-in-tree](https://github.com/ikshit264/MyCodezz/tree/master/0863-sum-of-distances-in-tree) |
@@ -48,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0144-binary-tree-preorder-traversal](https://github.com/ikshit264/MyCodezz/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/ikshit264/MyCodezz/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/ikshit264/MyCodezz/tree/master/0226-invert-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ikshit264/MyCodezz/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ikshit264/MyCodezz/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0332-reconstruct-itinerary](https://github.com/ikshit264/MyCodezz/tree/master/0332-reconstruct-itinerary) |
 | [0543-diameter-of-binary-tree](https://github.com/ikshit264/MyCodezz/tree/master/0543-diameter-of-binary-tree) |
@@ -98,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0144-binary-tree-preorder-traversal](https://github.com/ikshit264/MyCodezz/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/ikshit264/MyCodezz/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/ikshit264/MyCodezz/tree/master/0226-invert-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ikshit264/MyCodezz/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/ikshit264/MyCodezz/tree/master/0543-diameter-of-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/ikshit264/MyCodezz/tree/master/0687-longest-univalue-path) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/ikshit264/MyCodezz/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
