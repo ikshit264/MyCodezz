@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ikshit264/MyCodezz/tree/master/0001-two-sum) |
+| [0036-valid-sudoku](https://github.com/ikshit264/MyCodezz/tree/master/0036-valid-sudoku) |
 | [0217-contains-duplicate](https://github.com/ikshit264/MyCodezz/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ikshit264/MyCodezz/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/ikshit264/MyCodezz/tree/master/0264-ugly-number-ii) |
@@ -154,6 +155,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/ikshit264/MyCodezz/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/ikshit264/MyCodezz/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ikshit264/MyCodezz/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0036-valid-sudoku](https://github.com/ikshit264/MyCodezz/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/ikshit264/MyCodezz/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/ikshit264/MyCodezz/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/ikshit264/MyCodezz/tree/master/0063-unique-paths-ii) |
@@ -248,6 +250,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/ikshit264/MyCodezz/tree/master/0036-valid-sudoku) |
 | [0063-unique-paths-ii](https://github.com/ikshit264/MyCodezz/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ikshit264/MyCodezz/tree/master/0064-minimum-path-sum) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ikshit264/MyCodezz/tree/master/0329-longest-increasing-path-in-a-matrix) |
