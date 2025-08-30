@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0104-maximum-depth-of-binary-tree](https://github.com/ikshit264/MyCodezz/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/ikshit264/MyCodezz/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/ikshit264/MyCodezz/tree/master/0112-path-sum) |
+| [0113-path-sum-ii](https://github.com/ikshit264/MyCodezz/tree/master/0113-path-sum-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ikshit264/MyCodezz/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ikshit264/MyCodezz/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/ikshit264/MyCodezz/tree/master/0199-binary-tree-right-side-view) |
@@ -45,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0104-maximum-depth-of-binary-tree](https://github.com/ikshit264/MyCodezz/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/ikshit264/MyCodezz/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/ikshit264/MyCodezz/tree/master/0112-path-sum) |
+| [0113-path-sum-ii](https://github.com/ikshit264/MyCodezz/tree/master/0113-path-sum-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ikshit264/MyCodezz/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ikshit264/MyCodezz/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/ikshit264/MyCodezz/tree/master/0199-binary-tree-right-side-view) |
@@ -96,6 +98,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0104-maximum-depth-of-binary-tree](https://github.com/ikshit264/MyCodezz/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/ikshit264/MyCodezz/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/ikshit264/MyCodezz/tree/master/0112-path-sum) |
+| [0113-path-sum-ii](https://github.com/ikshit264/MyCodezz/tree/master/0113-path-sum-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ikshit264/MyCodezz/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ikshit264/MyCodezz/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/ikshit264/MyCodezz/tree/master/0199-binary-tree-right-side-view) |
@@ -406,6 +409,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0093-restore-ip-addresses](https://github.com/ikshit264/MyCodezz/tree/master/0093-restore-ip-addresses) |
+| [0113-path-sum-ii](https://github.com/ikshit264/MyCodezz/tree/master/0113-path-sum-ii) |
 | [0131-palindrome-partitioning](https://github.com/ikshit264/MyCodezz/tree/master/0131-palindrome-partitioning) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/ikshit264/MyCodezz/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1906-maximize-score-after-n-operations](https://github.com/ikshit264/MyCodezz/tree/master/1906-maximize-score-after-n-operations) |
