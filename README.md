@@ -399,6 +399,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/ikshit264/MyCodezz/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/ikshit264/MyCodezz/tree/master/0049-group-anagrams) |
 | [0087-scramble-string](https://github.com/ikshit264/MyCodezz/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/ikshit264/MyCodezz/tree/master/0091-decode-ways) |
@@ -437,6 +438,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/ikshit264/MyCodezz/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/ikshit264/MyCodezz/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/ikshit264/MyCodezz/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ikshit264/MyCodezz/tree/master/0144-binary-tree-preorder-traversal) |
