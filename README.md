@@ -206,6 +206,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0740-delete-and-earn](https://github.com/ikshit264/MyCodezz/tree/master/0740-delete-and-earn) |
 | [0747-min-cost-climbing-stairs](https://github.com/ikshit264/MyCodezz/tree/master/0747-min-cost-climbing-stairs) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/ikshit264/MyCodezz/tree/master/0882-peak-index-in-a-mountain-array) |
+| [0883-car-fleet](https://github.com/ikshit264/MyCodezz/tree/master/0883-car-fleet) |
 | [0911-profitable-schemes](https://github.com/ikshit264/MyCodezz/tree/master/0911-profitable-schemes) |
 | [0960-minimize-malware-spread](https://github.com/ikshit264/MyCodezz/tree/master/0960-minimize-malware-spread) |
 | [0964-minimize-malware-spread-ii](https://github.com/ikshit264/MyCodezz/tree/master/0964-minimize-malware-spread-ii) |
@@ -374,6 +375,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/ikshit264/MyCodezz/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ikshit264/MyCodezz/tree/master/0242-valid-anagram) |
 | [0646-maximum-length-of-pair-chain](https://github.com/ikshit264/MyCodezz/tree/master/0646-maximum-length-of-pair-chain) |
+| [0883-car-fleet](https://github.com/ikshit264/MyCodezz/tree/master/0883-car-fleet) |
 | [1129-longest-string-chain](https://github.com/ikshit264/MyCodezz/tree/master/1129-longest-string-chain) |
 | [1290-make-array-strictly-increasing](https://github.com/ikshit264/MyCodezz/tree/master/1290-make-array-strictly-increasing) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/ikshit264/MyCodezz/tree/master/1352-maximum-profit-in-job-scheduling) |
@@ -451,11 +453,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0150-evaluate-reverse-polish-notation](https://github.com/ikshit264/MyCodezz/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/ikshit264/MyCodezz/tree/master/0155-min-stack) |
 | [0739-daily-temperatures](https://github.com/ikshit264/MyCodezz/tree/master/0739-daily-temperatures) |
+| [0883-car-fleet](https://github.com/ikshit264/MyCodezz/tree/master/0883-car-fleet) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ikshit264/MyCodezz/tree/master/0042-trapping-rain-water) |
 | [0739-daily-temperatures](https://github.com/ikshit264/MyCodezz/tree/master/0739-daily-temperatures) |
+| [0883-car-fleet](https://github.com/ikshit264/MyCodezz/tree/master/0883-car-fleet) |
 ## Combinatorics
 |  |
 | ------- |
