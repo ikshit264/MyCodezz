@@ -202,6 +202,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/ikshit264/MyCodezz/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0518-coin-change-ii](https://github.com/ikshit264/MyCodezz/tree/master/0518-coin-change-ii) |
 | [0646-maximum-length-of-pair-chain](https://github.com/ikshit264/MyCodezz/tree/master/0646-maximum-length-of-pair-chain) |
+| [0739-daily-temperatures](https://github.com/ikshit264/MyCodezz/tree/master/0739-daily-temperatures) |
 | [0740-delete-and-earn](https://github.com/ikshit264/MyCodezz/tree/master/0740-delete-and-earn) |
 | [0747-min-cost-climbing-stairs](https://github.com/ikshit264/MyCodezz/tree/master/0747-min-cost-climbing-stairs) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/ikshit264/MyCodezz/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -449,10 +450,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0144-binary-tree-preorder-traversal](https://github.com/ikshit264/MyCodezz/tree/master/0144-binary-tree-preorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ikshit264/MyCodezz/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/ikshit264/MyCodezz/tree/master/0155-min-stack) |
+| [0739-daily-temperatures](https://github.com/ikshit264/MyCodezz/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ikshit264/MyCodezz/tree/master/0042-trapping-rain-water) |
+| [0739-daily-temperatures](https://github.com/ikshit264/MyCodezz/tree/master/0739-daily-temperatures) |
 ## Combinatorics
 |  |
 | ------- |
