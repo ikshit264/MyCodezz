@@ -442,6 +442,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/ikshit264/MyCodezz/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/ikshit264/MyCodezz/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ikshit264/MyCodezz/tree/master/0144-binary-tree-preorder-traversal) |
+| [0155-min-stack](https://github.com/ikshit264/MyCodezz/tree/master/0155-min-stack) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -450,4 +451,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/ikshit264/MyCodezz/tree/master/0062-unique-paths) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/ikshit264/MyCodezz/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
