@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/ikshit264/MyCodezz/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/ikshit264/MyCodezz/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/ikshit264/MyCodezz/tree/master/0049-group-anagrams) |
+| [0138-copy-list-with-random-pointer](https://github.com/ikshit264/MyCodezz/tree/master/0138-copy-list-with-random-pointer) |
 | [0217-contains-duplicate](https://github.com/ikshit264/MyCodezz/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ikshit264/MyCodezz/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/ikshit264/MyCodezz/tree/master/0264-ugly-number-ii) |
@@ -449,6 +450,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/ikshit264/MyCodezz/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/ikshit264/MyCodezz/tree/master/0025-reverse-nodes-in-k-group) |
+| [0138-copy-list-with-random-pointer](https://github.com/ikshit264/MyCodezz/tree/master/0138-copy-list-with-random-pointer) |
 ## Number Theory
 |  |
 | ------- |
