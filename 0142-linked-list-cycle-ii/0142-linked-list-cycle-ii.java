@@ -7,7 +7,7 @@ public class Solution {
             if (slow == fast) break;
         }
         if (fast == null || fast.next == null) return null;
-        System.out.println(slow.val);
+        // System.out.println(slow.val);
         while (head != slow) {
             head = head.next;
             slow = slow.next;
